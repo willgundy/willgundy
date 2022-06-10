@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Will!
 
-<!--
-**willgundy/willgundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Previous product manager, bucking the trend and going from product to engineering! Who likes the mainstream anyway?
+I am a previous product manager, bucking the trend and going from product to software engineering! Who likes the mainstream anyway?
 
 Avid swimmer and hiker. I am either behind a computer or outdoors.
 
@@ -12,4 +9,3 @@ Avid swimmer and hiker. I am either behind a computer or outdoors.
 - 👯 I’m looking to collaborate on anything and everything
 - 📫 How to reach me: willgunderson503@gmail.com
 - 😄 Pronouns: (he/him)
--->
