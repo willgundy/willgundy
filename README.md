@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Will!
 
-I am a previous product manager, bucking the trend and going from product to software engineering! Who likes the mainstream anyway?
+### About Me
+
+Previous product manager, bucking the trend and going from product to software engineering! Who likes the mainstream anyway?
 
 Avid swimmer and hiker. I am either behind a computer or outdoors.
 
